@@ -4,4 +4,4 @@ Tarea del Laboratorio Desarrollo de Aplicaciones Web
 Jose Pila
 Joahn Cardenas
 
-![image](https://github.com/user-attachments/assets/b929d1bf-46c3-4fe1-9451-d78eb63f0f2f)
+![image](https://github.com/user-attachments/assets/3bae3643-edd4-48e8-b5dd-ebe08f67a9e4)
